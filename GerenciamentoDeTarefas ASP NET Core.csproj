@@ -6,8 +6,6 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>GerenciamentoDeTarefas_ASP_NET_Core</RootNamespace>
     <UserSecretsId>fa1df604-e396-4fd3-ace9-993cfd4fe23b</UserSecretsId>
-    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
-    <DockerfileContext>.</DockerfileContext>
   </PropertyGroup>
 
   <ItemGroup>
