@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciamentoDeTarefas ASP NET Core", "GerenciamentoDeTarefas ASP NET Core.csproj", "{6DD84250-6AD7-4E92-B25C-D7F46DEB1000}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gerenciamento de Tarefas Front End", "..\Gerenciamento de Tarefas Front End\Gerenciamento de Tarefas Front End.csproj", "{90BF9593-7180-43C6-A76E-CF998B66BC66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD84250-6AD7-4E92-B25C-D7F46DEB1000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD84250-6AD7-4E92-B25C-D7F46DEB1000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD84250-6AD7-4E92-B25C-D7F46DEB1000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD84250-6AD7-4E92-B25C-D7F46DEB1000}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90BF9593-7180-43C6-A76E-CF998B66BC66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90BF9593-7180-43C6-A76E-CF998B66BC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90BF9593-7180-43C6-A76E-CF998B66BC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90BF9593-7180-43C6-A76E-CF998B66BC66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D91A79D-84AE-466F-947C-3B25E9C67932}
+	EndGlobalSection
+EndGlobal

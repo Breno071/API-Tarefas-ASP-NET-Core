@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6dd84250-6ad7-4e92-b25c-d7f46deb1000": {
+      "ProjectGuid": "6dd84250-6ad7-4e92-b25c-d7f46deb1000",
+      "DisplayName": "GerenciamentoDeTarefas ASP NET Core",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "90bf9593-7180-43c6-a76e-cf998b66bc66": {
+      "ProjectGuid": "90bf9593-7180-43c6-a76e-cf998b66bc66",
+      "DisplayName": "Gerenciamento de Tarefas Front End",
+      "ColorIndex": 1
+    },
+    "497796c5-f42d-4ced-842d-63005b68ef57": {
+      "ProjectGuid": "497796c5-f42d-4ced-842d-63005b68ef57",
+      "DisplayName": "teste",
+      "ColorIndex": 2
+    },
+    "c6fa6add-c8d6-426f-bb5c-e97d491ac42c": {
+      "ProjectGuid": "c6fa6add-c8d6-426f-bb5c-e97d491ac42c",
+      "DisplayName": "teste",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
